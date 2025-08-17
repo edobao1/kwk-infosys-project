@@ -1,0 +1,13 @@
+Scenario,Year,Energy_kWh,CO2e_kg
+Single Customer (Actual Annual),2020,11568.0,10364.0
+Single Customer (Actual Annual),2021,11336.64,10157.0
+Single Customer (Actual Annual),2022,11109.91,9954.0
+Single Customer (Actual Annual),2023,10887.71,9755.0
+Single Customer (Baseline Annual),2020,10800.0,9676.0
+Single Customer (Baseline Annual),2021,10800.0,9676.0
+Single Customer (Baseline Annual),2022,10800.0,9676.0
+Single Customer (Baseline Annual),2023,10800.0,9676.0
+Wayne County (Total Consumption),2020,17291241000.0,15492176344.0
+Wayne County (Total Consumption),2021,17204784795.0,15414715462.0
+Wayne County (Total Consumption),2022,17118760871.02,15337641885.0
+Wayne County (Total Consumption),2023,17033167066.67,15260953675.0
